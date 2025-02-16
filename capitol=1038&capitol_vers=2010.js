@@ -4,7 +4,7 @@ function sumCap1038_Rind0000000() {
     //Add all in rowIDs
     var rowIDs = [
 
-        { id: "75328", rind: "0000000" },
+       
         { id: "75430", rind: "0100000" },
         { id: "74903", rind: "0101000" },
         { id: "74891", rind: "0110000" },
